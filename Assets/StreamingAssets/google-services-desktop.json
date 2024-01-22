@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "755953234498",
+    "project_id": "balaitentor-id-cc485",
+    "storage_bucket": "balaitentor-id-cc485.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755953234498:android:fd968e583b5d060e23f3db",
+        "android_client_info": {
+          "package_name": "com.ARtyCreative.Balaitentorid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755953234498-iatjnj6jiu81rg7a2u9489d7h3gjkkb7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn5TwfddXO-H9r8j_H05VVwjQdiWHLQdU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "755953234498-iatjnj6jiu81rg7a2u9489d7h3gjkkb7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

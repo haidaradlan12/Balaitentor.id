@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+  <string name="gcm_defaultSenderId" translatable="false">755953234498</string>
+  <string name="google_storage_bucket" translatable="false">balaitentor-id-cc485.appspot.com</string>
+  <string name="project_id" translatable="false">balaitentor-id-cc485</string>
+  <string name="google_api_key" translatable="false">AIzaSyDn5TwfddXO-H9r8j_H05VVwjQdiWHLQdU</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDn5TwfddXO-H9r8j_H05VVwjQdiWHLQdU</string>
+  <string name="google_app_id" translatable="false">1:755953234498:android:fd968e583b5d060e23f3db</string>
+  <string name="default_web_client_id" translatable="false">755953234498-iatjnj6jiu81rg7a2u9489d7h3gjkkb7.apps.googleusercontent.com</string>
+</resources>
